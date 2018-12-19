@@ -1,0 +1,2 @@
+# alumnos
+django based app
